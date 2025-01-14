@@ -139,7 +139,7 @@ ReveraStore adalah toko terpercaya yang menyediakan berbagai kebutuhan, mulai da
     </section>
 </div>
 
-<script src="{{ mix('js/home.js') }}"></script>
+
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         // Fade-in effect when the page loads
